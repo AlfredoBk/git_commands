@@ -17,3 +17,4 @@
 # Receber pacotes do github
 
     - git pull
+d
